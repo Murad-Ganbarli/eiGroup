@@ -31,11 +31,11 @@ with the same names (for instance chain of restaurants)
 &#39;State&#39; – State Location
 &#39;Latitude&#39; – X coordinates of business
 &#39;Longitude&#39; – Y coordinates of business
-&#39;Avg_Business_Star_Rating&#39; – Rating review left by user.
-Section 2:
+&#39;Avg_Business_Star_Rating&#39; – Rating review left by user.'
+
+# Section 2:
+
 Part 1:
-
-
 Create an algorithm that generates an NxN matrix filled with the numbers in a specific pattern
 starting from the center. This matrix should follow the pattern illustrated in the attached image.
 Input: An integer N representing the size of the square matrix (NxN).
